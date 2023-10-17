@@ -1,9 +1,11 @@
 # Practice
 ## Background
 My Name is Thomas Danner, I went to the University of Dayton for three years then finshed my BS in Finance at DePaul University in Chicago. I have four years of work expirience as a Financial Analyst. One year at a small Philanthropic Consulting Firm and three at a small SaaS company.
+
 ---
 ![Depaul University Chicago](https://www.depaul.edu/PublishingImages/visit_virtually_bg.jpg)
 ---
+
 ## Career Goals
 My goal is to support start ups by being a jack of all trades. By knowing both corporate finance as well as coding I think I can be a vital part of a team.
 ## Why FinTech
