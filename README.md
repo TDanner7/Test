@@ -1,4 +1,7 @@
-# Test
-## Header
-tom danner
-### Header
+# Practice
+## Background
+My Name is Thomas Danner, I went to the University of Dayton for three years then finshed my BS in Finance at DePaul University in Chicago. I have 4 years of work expirience as a Financial Analyst. One year at a small Phylonthropic Consulting Firm and three at a small SaaS company.
+## Career Goals
+My goal is to support start ups by being a jack of all trades. By knowing both corporate finance as well as coding I think I can be a vital part of a team.
+## Why FinTech
+FinTech seems to be the obvious next step in my caareer, having been in finance for the past half decade I have seen how important technology has become. It will only become more impotant in the future. Furthermore, the idea of combining such an established industry with new inovation is something that I dont want to watch from the outside.
